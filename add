@@ -1,0 +1,7 @@
+add()
+[
+int a,c,int b;
+cout<<"enter the two no."<<endl;
+cin>>a>>b;
+cout<<"the result of addition of two no. is "<<c<<endl;
+]
