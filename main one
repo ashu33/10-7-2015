@@ -2,6 +2,8 @@
 #include<studio.h>
 void main()
 {
+clrscr();
+cout<<"this id tp show push ioperation"<<endl;
 subtraction();
 addition();
 getch();
