@@ -1,8 +1,0 @@
-#include<conio.h>
-#include<studio.h>
-void main()
-{
-subtraction();
-addition();
-getch();
-}
