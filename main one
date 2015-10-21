@@ -1,6 +1,8 @@
 #include<conio.h>
-#incklude<stdio.h>
-public ststic void main (string srgs[])
+#include<studio.h>
+void main()
 {
-int a,b,bc.c,;
+subtraction();
+addition();
+getch();
 }
