@@ -1,7 +1,9 @@
-add()
-[
-int a,c,int b;
-cout<<"enter the two no."<<endl;
+void addition()
+{
+int a,b,c;
+cout<<"enter the value of a ,b"<<endl;
 cin>>a>>b;
-cout<<"the result of addition of two no. is "<<c<<endl;
-]
+c=a+b;
+cout<<"the aaddition of two no. is"<<endl;
+cout<<c;
+}
