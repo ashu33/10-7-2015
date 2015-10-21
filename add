@@ -1,0 +1,9 @@
+void addition()
+{
+int a,b,c;
+cout<<"enter the value of a ,b"<<endl;
+cin>>a>>b;
+c=a+b;
+cout<<"the aaddition of two no. is"<<endl;
+cout<<c;
+}
