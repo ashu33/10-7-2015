@@ -1,0 +1,9 @@
+void subtraction()
+{
+int d,e,f;
+cout<<"enter the value of d ,e"<<endl;
+cin>>d>>e;
+f=d-e;
+cout<<"the aaddition of two no. is"<<endl;
+cout<<f;
+}
